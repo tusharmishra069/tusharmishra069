@@ -6,7 +6,10 @@
 # **Hi, I'm Tushar Mishra**
 
 
-I'm currently learning Data structure and Algorithm.<br>I'm ML enthusiast.<br> fun-fact: Just a Nerd who think he's cool
+📚 I'm currently learning Data Structures and Algorithms.<br>
+🤖 I'm an ML enthusiast.<br>
+🤓 Fun-fact: Just a nerd who thinks he's cool <br>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=tusharmishra069&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -23,13 +26,6 @@ I'm currently learning Data structure and Algorithm.<br>I'm ML enthusiast.<br> f
 # 📊 GitHub Stats:
 
 <!-- GitHub Stats and Top Languages Side by Side -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharmishra069&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmishra069&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- GitHub Streak Below -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharmishra069&theme=dark&hide_border=true)
-
-
-
 
 ---
