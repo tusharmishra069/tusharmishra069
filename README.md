@@ -28,7 +28,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 📊 GitHub Stats:
 
-<!-- GitHub Stats and Top Languages Side by Side -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmishra069&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
