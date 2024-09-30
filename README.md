@@ -26,8 +26,12 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 📊 GitHub Stats:
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharmishra069&theme=tokyonight&hide_border=false"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmishra069&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmishra069&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
