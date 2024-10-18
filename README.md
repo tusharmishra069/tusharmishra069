@@ -41,3 +41,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+#  🎗️ Open Source Achievements
+[![An image of @tusharmishra069's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharmishra069)](https://holopin.io/@tusharmishra069)
