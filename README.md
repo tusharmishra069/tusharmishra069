@@ -44,3 +44,17 @@
 
 #  🎗️ Open Source Achievements
 [![An image of @tusharmishra069's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharmishra069)](https://holopin.io/@tusharmishra069)
+
+
+
+### 🏅 LeetCode Badge Showcase
+
+<p align="center">
+  <!-- GIF Badges -->
+  <img src="https://github.com/tusharmishra069/tusharmishra069/blob/main/leetcode%20badge/25100.gif" width="80" alt="100 Days Badge 2025" />
+  <img src="https://github.com/tusharmishra069/tusharmishra069/blob/main/leetcode%20badge/2024-50.gif" width="80" alt="50 Days Badge 2024" />
+  <img src="https://github.com/tusharmishra069/tusharmishra069/blob/main/leetcode%20badge/202504.gif" width="80" alt="April Badge 2025" />
+  <img src="https://github.com/tusharmishra069/tusharmishra069/blob/main/leetcode%20badge/202505.gif" width="80" alt="May Badge 2025" />
+  <img src="https://github.com/tusharmishra069/tusharmishra069/blob/main/leetcode%20badge/202506.gif" width="80" alt="June Badge 2025" />
+</p>
+
