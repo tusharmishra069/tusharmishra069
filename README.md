@@ -15,7 +15,7 @@ Languages: Python 🐍, C++ 💻, TypeScript
 [![](https://visitcount.itsvg.in/api?id=tusharmishra069&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-tan-chi-8pg7erl4bf.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://tushar-mishra.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharmishra.69)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kumar-mishra-1974b124b/)
